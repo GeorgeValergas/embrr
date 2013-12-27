@@ -1,3 +1,10 @@
-#They __recommended__ that I should add a README...
+#Readme for first-feature
 
-_No reason to yell, yeesh_
+##Placeholder Text
+
+###To differentiate from master branch
+
+
+####just n00bing around with git/markdown 
+
+
